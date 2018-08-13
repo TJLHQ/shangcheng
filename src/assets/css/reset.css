@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+/*html,body { user-select: none; -moz-user-select: none; -webkit-user-select: none; }*/
+body,
+ul,
+ol,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+input,
+select,
+textarea,
+form {
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: 100%;
+    font-weight: 400;
+}
+html {
+  height: 100%;
+  background: #ededed;
+}
+body {
+  font-family: "PingFang SC", "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Microsoft Yahei", 微软雅黑, STHeiti, 华文细黑, sans-serif;
+  color: rgb(102, 102, 102);
+  font-size: 14px;
+  min-width: 1220px;
+}
+li {
+  list-style: none;
+}
+img {
+  border: none;
+  display: block;
+}
+input,
+select,
+textarea,
+button {
+  font-family: tahoma, arial, 'Hiragino Sans GB', '微软雅黑', sans-serif;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+em,
+i,
+dfn {
+  font-style: normal;
+}
+textarea {
+  resize: none;
+  overflow: auto;
+  outline: none;
+}
+a {
+  text-decoration: none;
+  color: #666;
+  outline: none;
+  cursor: pointer;
+}
+a:hover {
+  outline: none;
+}
+button {
+  cursor: pointer;
+}
+button:focus {
+  border: none;
+  outline: none;
+}
+pre {
+  white-space: pre-wrap!important;
+  word-wrap: break-word!important;
+  *white-space:normal!important;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.clear:after,
+.clear:before {
+  content: "";
+  display: table;
+}
+.clear:after {
+  clear: both;
+}
+.clear {
+  *zoom: 1;
+}
+.store-content{
+	width: 1220px;
+	padding: 0 0 25px;
+	margin: 0 auto;
+	position: relative;
+}
+.hide{
+	display: none!important;
+}
+.fn-left, .fn-right{
+	display: inline;
+}
+.fn-left{
+	float: left;
+}
+.fn-right{
+	float: right;
+}
