@@ -21,7 +21,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## 项目已部署，在线Demo
-访问地址 http://sc.mmys.fun/home
+访问地址 http://sc.mmys.fun/home 用户名:小华 密码：TJ512417?
 ## 所用前端技术
 Vue 2.x
 Vuex
