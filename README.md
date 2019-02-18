@@ -22,3 +22,21 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 项目已部署，在线Demo
 访问地址 http://sc.mmys.fun/home
+## 所用前端技术
+Vue 2.x
+Vuex
+Vue Router
+Element UI
+ES6
+webpack
+axios
+## 所用后端技术
+Koa2
+MongoDB
+Koa-router
+jwt(token验证)
+## 服务端部署技术
+nginx
+pm2
+
+
