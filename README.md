@@ -41,4 +41,4 @@ pm2
 ## 技术交流群（有什么不懂的地方可以加群交流）
 600424241
 
-![Image text](http://cdn.mmys.fun/qzjs.png)
+![add image](http://cdn.mmys.fun/qzjs.png)
