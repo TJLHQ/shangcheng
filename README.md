@@ -40,4 +40,5 @@ nginx
 pm2
 ## 技术交流群（有什么不懂的地方可以加群交流）
 600424241
-http://cdn.mmys.fun/qzjs.png
+
+![Image text](http://cdn.mmys.fun/qzjs.png)
